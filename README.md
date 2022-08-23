@@ -1,10 +1,8 @@
 # SCSS-Apple-App-Logos 🍎
-A repo that contains code for SCSS art specially creating Apples native app logos with SCSS.
-## The Contacts App:
-### [Codepen Link](https://codepen.io/magdalent/full/xxWmYdJ)
+This repo contains code for iOS app logos that I attempted to build with SCSS.
+## Contacts app: [codepen 🔗](https://codepen.io/magdalent/full/xxWmYdJ)
 ### Output:
 ## <img src="https://github.com/magdalent/SCSS-Apple-App-Logos/blob/main/contacts.png" alt="drawing" width="200"/> 
-## The Maps app:
-### [Codepen Link](https://codepen.io/magdalent/full/rNdPPQp)
+## Maps app: [codepen 🔗](https://codepen.io/magdalent/full/rNdPPQp)
 ### Output:
 <img src="https://github.com/magdalent/SCSS-Apple-App-Logos/blob/main/maps.png" alt="drawing" width="200"/>
